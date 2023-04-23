@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=calcpesca
+comment0.text=Um\ pescador\ deseja\ controlar\ o\ rendimento\ di\u00E1rio\ de\ seu\ trabalho.\ Toda\ vez\ que\ ele\r\ntraz\ um\ peixe\ maior\ que\ o\ estabelecido\ pelo\ regulamento\ de\ pesca\ do\ Estado\ de\ Minas\r\nGerais\ (50\ quilos),\ deve\ pagar\ uma\ multa\ de\ R$4,00\ por\ quilo\ excedente.\ Escreva\ um\r\napp\ que\ leia\ as\ informa\u00E7\u00F5es\ dos\ peixes\ pegos\ pelo\ pescador,\ ao\ final\ mostre\ quanto\ o\r\nmesmo\ deve\ pagar\r\n
+comment1.params=peso
+comment1.target=void\ adicionarPeixe(int)
+comment2.params=
+comment2.target=int\ getTotalPeso()
+comment3.params=
+comment3.target=int\ getMulta()
+numComments=4
