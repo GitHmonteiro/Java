@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CalcAposentadoria
+comment1.params=empregadoQlquer
+comment1.target=CalcAposentadoria(Empregado)
+comment2.params=
+comment2.target=boolean\ verificaResultado()
+numComments=3
